@@ -18,7 +18,6 @@ import androidx.compose.ui.unit.dp
 import tz.co.dbs.transcribe.data.NotesDataSource
 import tz.co.dbs.transcribe.model.Note
 import java.text.SimpleDateFormat
-import java.time.format.DateTimeFormatter
 import java.util.Locale
 
 @Composable
